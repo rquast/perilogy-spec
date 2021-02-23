@@ -2,3 +2,14 @@
   type: folder
   title: Perilogy
   expanded: true
+  children:
+    - key: RPQ0rUHiIQSjzZyEnOAbA
+      type: folder
+      title: Free Tools
+      expanded: true
+      children: []
+    - key: u2TynUVK10wgESqPxz7CI
+      type: folder
+      title: Training Material
+      expanded: true
+      children: []
